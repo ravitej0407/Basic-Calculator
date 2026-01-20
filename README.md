@@ -1,0 +1,1 @@
+This is a simple and responsive **Calculator website** built using **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The website is designed to be user-friendly and works on both desktop and mobile devices.
